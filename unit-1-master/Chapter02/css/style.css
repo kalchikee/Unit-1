@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #000000;
+  }
+  
+  header {
+    background-color: #bf0a0a;
+    color: white;
+    padding: 1em;
+    text-align: center;
+  }
+  
+  main {
+    padding: 2em;
+  }
+
+  /* Style for the entire table */
+  table {
+    font-family: "Times New Roman", Times, serif;
+    color: rgb(127, 127, 68);
+    border-collapse: collapse;
+  }
+
+  /* Style for table headers */
+  table th {
+    color: rgb(127, 127, 68);
+    font-family: "Times New Roman", Times, serif;
+  }
